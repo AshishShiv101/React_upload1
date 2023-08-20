@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+input[type=file]::file-selector-button {
+  margin-right: 20px;
+  border: none;
+  background: #e4ad09;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background .2s ease-in-out;
+}
+
+input[type=file]::file-selector-button:hover {
+  background: #121212;
+}
+/* .btn{
+  background-color: ;
+
+} */
+.flex-end{
+  display:flex;
+  justify-content: flex-end;
+}
