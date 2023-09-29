@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## The site can be accessed through the following link
+
+http://localhost:3000
 
 ## Available Scripts
 
